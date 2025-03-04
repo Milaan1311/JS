@@ -1,1 +1,1 @@
-"I created this HTML, CSS, and JavaScript basics project while learning frontend development."
+I developed this project using HTML, CSS, and JavaScript while learning frontend development.
